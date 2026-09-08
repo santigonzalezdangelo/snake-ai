@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.vscode/
+
+# se reescriben en cada entrenamiento
+model/model.pth
+model/checkpoint.pth
